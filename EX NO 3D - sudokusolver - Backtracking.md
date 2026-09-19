@@ -1,6 +1,7 @@
 
 # EX 3D Sudoku solver - Backtracking.
-## NAME: AMIRTHAVARSHINI.R.D
+## DEVELOPED BY : AMIRTHAVARSHINI.R.D
+## REG NO: 212223040013
 ## DATE: 13/08/26
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
